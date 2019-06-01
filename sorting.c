@@ -5,7 +5,7 @@
 #include <string.h>
 #include <memory.h>
 #include <ctype.h>
-#include "nhm.h"
+#include "sorting.h"
 
 double start, end;
 
